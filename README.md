@@ -1,5 +1,12 @@
 # Alfi: Approximate Latent Force Inference
 
+## ARCHIVE: Current, maintained release in mossjacob/alfi
+
+Please refer to https://github.com/mossjacob/alfi for the up-to-date code and examples.
+
+-------
+
+-------
 
 ### Implement Latent Force Models in under 10 lines of code!
 
